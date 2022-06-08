@@ -24,5 +24,6 @@ CLEAR.addEventListener('click', (e) => {
     DATE.value = ""
     OP.value = ""
     SHIFT.value = ""
+    ANSWER.innerText = ""
 })
 
